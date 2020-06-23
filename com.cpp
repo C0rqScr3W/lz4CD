@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <lz4.h>
+#include "lz4io.h"
 
 using namespace std;
 
